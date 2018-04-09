@@ -1,6 +1,5 @@
 import smbus
 import math
-import time
 import os
 import logging
 
